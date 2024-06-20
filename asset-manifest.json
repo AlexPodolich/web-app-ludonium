@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/web-app-ludonium/static/css/main.e9e08e51.css",
+    "main.js": "/web-app-ludonium/static/js/main.b8a647c3.js",
+    "static/js/453.fe7dcd64.chunk.js": "/web-app-ludonium/static/js/453.fe7dcd64.chunk.js",
+    "static/media/loot.jpg": "/web-app-ludonium/static/media/loot.b48ec194de4b71c229c2.jpg",
+    "index.html": "/web-app-ludonium/index.html",
+    "main.e9e08e51.css.map": "/web-app-ludonium/static/css/main.e9e08e51.css.map",
+    "main.b8a647c3.js.map": "/web-app-ludonium/static/js/main.b8a647c3.js.map",
+    "453.fe7dcd64.chunk.js.map": "/web-app-ludonium/static/js/453.fe7dcd64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9e08e51.css",
+    "static/js/main.b8a647c3.js"
+  ]
+}
